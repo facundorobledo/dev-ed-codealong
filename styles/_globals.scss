@@ -1,0 +1,47 @@
+html {
+    font-size: 62.5%; //IF YOU ADD 62.5% IN FONT SIZE, 1 REM IS GONNA MEAN 10PX FOR THE FONT SIZE
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h1{
+    font-family: 'Lobster', sans-serif;
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+
+h2{
+    font-family: 'Lobster', sans-serif;
+    font-size: 8rem;
+    font-weight: lighter;
+}
+
+h3{
+    font-size: 3.5rem;
+}
+
+h4{
+    font-size: 3rem;
+}
+
+p{
+    font-size: 2rem;
+}
+
+li{
+    font-size: 2rem;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
